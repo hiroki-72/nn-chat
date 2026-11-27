@@ -1,0 +1,8 @@
+body.container {
+  padding-top: 70px;
+  padding-bottom: 200px;
+}
+p.card-text {
+  white-space: pre-wrap;
+  word-break: break-all;
+}
